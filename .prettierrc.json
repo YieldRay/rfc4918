@@ -1,0 +1,10 @@
+{
+  "plugins": ["prettier-plugin-zh"],
+  "spaceAroundAlphabet": true,
+  "spaceAroundNumber": true,
+  "spaceAroundCode": true,
+  "spaceAroundLink": true,
+  "noSpaceBetweenNumberUnit": ["%", "°C", "°"],
+  "noSpaceAroundFullwidth": true,
+  "noDuplicatePunctuation": true
+}
